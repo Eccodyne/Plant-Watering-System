@@ -23,7 +23,7 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 ---
 ### 🛒 What components do I need to make this project?
 - 3D printed housing parts
-- Keyestudio ESP3232-WROOM-32 Develpment Board 
+- Keyestudio ESP3232-WROOM-32 Development Board 
 - 2,4 inch EC11 LCD display with rotary encoder and secondary push button (320x240 pixels)
 - DS3231 real time clock module with backup battery (board has three holes for screw fixing)
 - 2x mini water pumps (3v)
