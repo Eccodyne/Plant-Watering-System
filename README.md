@@ -1,28 +1,36 @@
 ## 📌 Welcome to the "Plant Watering System" Project!
 ![Plant Watering System](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/Housing_Front.JPG)
 
-# Garmin-G1000-Controller
-This a physical controller for the main navigation functions of the Garmin G1000, to be used with Microsoft Flight Simulator 2024.
+# Plant Watering System
+This is a fully automated plant watering system based on an ESP32 board and Arduino code.
 
 ### 💡What is this repository for?
-This repository contains the code and build instructions for my Garmin G1000 Controller Project with the required 3D printing files to be found at Makerworld.com. You can build your own device to control the main navigation functions of the Garmin G1000 in Mircosoft Flight Simulator 2024 with just a few electronic parts, a 3D printed housing and a little bit of Arduino code.
+This repository contains the code and build instructions for the "Plant Watering System" Project with the required 3D printing files to be found at Makerworld.com. 
+
+Features:
+- Controls 2 separate water pumps
+- Individual watering schedules for each weekday (Monday to Sunday)
+- Customizable watering duration for each pump
+- Saves all settings to the EEPROM of the ESP32 board
+- Uses DS3231 RTC real time clock module to keep time/date even when device is disconnected from power
+- Easy navigation and configuraton via rotary encoder with push button (to enter menus and make settings) and secondary push button (to return from menus)
+- Automatic screen dimming (idle timer can be configured)
 
 This project is not complicated and does not require a high level of technical know-how. You just need time, patience and to follow the instructions as set out below.
-
-I have tested this controler in depth and it works perfectly!
 
 Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/models/2927499-garmin-g1000-controller-ms-flight-simulator-2024#profileId-3276793)
 
 ---
 ### 🛒 What components do I need to make this project?
 - 3D printed housing parts
-- Arduino 2560 MEGA compatible board with USB-B port (not USB-C!)
-- 4x KY-040 360 degree rotary encoders (see important note/image below)
-- 1x KY-023 Joystick module
-- 18x tactile 2-pin buttons
-- Mini Breadboard, but only the GND/VOLTAGE part is required (you can detach this part from the other parts of the breadboard, see image below)
+- Keyestudio ESP3232-WROOM-32 Develpment Board 
+- 2,4 inch EC11 LCD display with rotary encoder and secondary push button (320x240 pixels)
+- DS3231 real time clock module with backup battery (board has three holes for screw fixing)
+- 2x mini water pumps (3v)
+- 2x 3v relay power switches
 - Sufficient number of jumper wires
-- 12x M2.5 screws to attach the Arduino 2560 MEGA board and the rotary encoders to the housing
-- 16x M3 screws to attach the top cover, the button covers and the joystick to the housing
-- USB-B cable to connect the controller to your PC (this should come with the Arduino 2560 MEGA board, but you may want to purchase a longer cable)
+- 7x M2.5 screws to attach the ESP32 baord the the DS3231 real time clock to the housing
+- 10x M3 screws to attach the LCD display, the display cover and to fix the back of the housing
+- Hot glue to fix the water pumps to the housing
+- USB-C cable to connect the ESP32 board to your PC
 - 4x self-adhesive rubber feet to be attached to the bottom of the housing
