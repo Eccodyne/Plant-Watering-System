@@ -12,7 +12,7 @@ Features:
 - Individual watering schedules for each weekday (Monday to Sunday)
 - Customizable watering duration for each pump
 - Saves all settings to the EEPROM of the ESP32 board
-- Uses DS3231 RTC real time clock module to keep time/date even when device is disconnected from power
+- Uses DS3231 RTC module to keep time/date even when device is disconnected from power
 - Easy navigation and configuraton via rotary encoder with push button (to enter menus and make settings) and secondary push button (to return from menus)
 - Automatic screen dimming (idle timer can be configured)
 
@@ -29,7 +29,7 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 - 2x mini water pumps (3v)
 - 2x 3v relay power switches
 - Sufficient number of jumper wires
-- 7x M2.5 screws to attach the ESP32 baord the the DS3231 real time clock to the housing
+- 9x M2.5 screws to attach the ESP32 baord, the relays and the DS3231 RTC mdoule to the housing
 - 10x M3 screws to attach the LCD display, the display cover and to fix the back of the housing
 - Hot glue to fix the water pumps to the housing
 - USB-C cable to connect the ESP32 board to your PC
@@ -42,3 +42,8 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 ***
 ### 🔎 How do I get started?
 - Download *.3mf file for the Plant Watering System Project on Makerworld: [Link](https://makerworld.com/de/models/2927499-garmin-g1000-controller-ms-flight-simulator-2024#profileId-3276793)
+- Print all parts with your 3D printer
+- Atatch the ESP32 board to the bottom of the housing using M2.5 screws
+- Attach the DS3231 RTC module to the bottom of the housing using M2.5 screws
+- Attach the water pumps to the buttom of the housing using hot glue
+- Attach the 
