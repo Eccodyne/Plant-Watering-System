@@ -8,11 +8,11 @@ This is a fully automated plant watering system based on an ESP32 board and Ardu
 This repository contains the code and build instructions for the "Plant Watering System" Project with the required 3D printing files to be found on Makerworld.com. 
 
 Features:
-- Controls 2 separate water pumps
+- Two separately controllable water pumps
 - Individual watering schedules for each weekday (Monday to Sunday)
 - Customizable watering duration for each pump
-- Saves all settings to the EEPROM of the ESP32 board
-- Uses DS3231 RTC module to keep time/date even when device is disconnected from power
+- Saves all settings to the EEPROM of the ESP32 board so nothing gets lost when device is disconnected from power
+- Uses DS3231 RTC module to keep time/date to trigger watering at the right ime
 - Easy navigation and configuraton via rotary encoder with push button (to enter menus and make settings) and secondary push button (to return from menus)
 - Automatic screen dimming (idle timer can be configured)
 
