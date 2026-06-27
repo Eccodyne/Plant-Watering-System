@@ -52,6 +52,7 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 - Attach the relays to the top part of the housing using M2.5 screws
 - Solder the pin bridge to the board of the LCD display
 - Attach the LCD display to the display cover using M2.5 screws
+- Attach the printed control knob to the rotary encoder of the LCD display
 - Connect all pins of the LCD display to the ESP32 board using jumper wires. Take note of each pin number you are using on the ESP32 board, you will need to adjust the Arduino code accordingly later on 
 - Pins A and B of the LCD's rotary encoder can be attached to analogue inputs of the ESP32 board, everything else needs to go to digital inputs.
 - Make sure that GND and V (Voltage) pins are connected correctly. Do not use 5V pins on the ESP32 board, only 3V pins.
@@ -60,9 +61,13 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 - Go to the // PIN CONFIGURATION // section of the sketch
 - Change the pin numbers in accordance with the pins that you are using on your ESP32 board
 - Save the sketch and upload it to your ESP32 board (for the Keyestudio ESP32, select "ESP32 Dev Module" as device in Arduino IDE)
--
+- Attach the silicon hoses to the "in" and "out" ports of the water pumps. The "out" ports have a smaller inner diameter than the "in" ports.
+- Attach the silicon hoses coming from the water outlets of the Plant Watering System to the printed spikes. Push the spikes into the soil of the plants you want to water.
+- Fill a container with water and place silicon hoses connected to the "in" ports of the Plant Watering System in the container. Use a weight to keep the hoses from moving in the water container
+
 ***
 ### ⚙️ Configuring your Plant Watering System
+
 
 
 ***
