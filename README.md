@@ -2,7 +2,7 @@
 ![Plant Watering System](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/IMG_2521.JPG)
 
 # Plant Watering System
-This is a fully automated plant watering system based on an ESP32 board and Arduino code. It provides for two separate water pumps which can be easiliy configured through a self explainatory menu system using the rotary encoder and the secondary button.
+This is a fully automated plant watering system based on an ESP32 board and 1,500 lines of Arduino code. It provides for two separate water pumps which can be easiliy configured through a self explainatory menu system using the rotary encoder and the secondary button.
 
 ### 💡What is this repository for?
 This repository contains the code and build instructions for the "Plant Watering System" Project with the required 3D printing files to be found on Makerworld.com. 
