@@ -46,7 +46,7 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 - Print all parts with your 3D printer
 - Attach the ESP32 board to the bottom of the housing using M2.5 screws
 - Attach the DS3231 RTC module to the bottom of the housing using M2.5 screws
-- Cut off the mini plugs from the cables of the water pumps to do the next step
+- If there are any mini plugs/connectors attached to the cables of your water pumps, cut them off to do the next step
 - Solder jumnper wires to the GND cable (blue) and V cable (red) of the water pumps. Important: the V cable coming from the water pump must have a male connector which needs to be attached to a relay later on. This does not work with a female connector.
 - Attach the water pumps to the buttom of the housing using hot glue
 - Attach the relays to the top part of the housing using M2.5 screws
