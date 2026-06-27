@@ -35,6 +35,7 @@ Link to 3D printing files on Makerworld: [Link](https://makerworld.com/de/models
 - Hot glue to fix the water pumps to the housing
 - USB-C cable to connect the ESP32 board to your PC
 - 4x self-adhesive rubber feet to be attached to the bottom of the housing
+- Soldering iron to connect the pin bridge to the LCD display
 
 All items can be found at the well known Chinese internet shops.
 
