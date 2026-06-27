@@ -68,7 +68,7 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 
 ![PIC3](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/PIC3.JPG)
 
-![PIC4](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/HOUSING_BACK.JPG)
+![PIC4](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/HOUSING_Back.JPG)
 
 
 
