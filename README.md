@@ -73,6 +73,10 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 ***
 ### 📷 Images of the build and its parts:
 
+![Water pump](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/PIC5.JPG)
+
+![Relay](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/PIC6.JPG)
+
 ![Display](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/PIC4.JPG)
 
 ![PIC1](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/PIC1.JPG)
