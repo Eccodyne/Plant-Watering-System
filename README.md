@@ -31,7 +31,7 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 - 2x 3v relay power switches
 - Sufficient number of jumper wires
 - 15x M2.5 screws to attach the ESP32 baord, the relays and the DS3231 RTC mdoule to the housing
-- 10x M3 screws to attach the LCD display, the display cover and to fix the back of the housing
+- 10x M3 screws to attach the LCD display, the display cover and to fixate the back of the housing
 - Hot glue to fix the water pumps to the housing
 - USB-C cable to connect the ESP32 board to your PC
 - 4x self-adhesive rubber feet to be attached to the bottom of the housing
