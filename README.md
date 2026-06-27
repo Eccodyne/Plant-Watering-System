@@ -27,6 +27,7 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 - 2,4 inch EC11 LCD display with rotary encoder and secondary push button (320x240 pixels)
 - DS3231 real time clock module with backup battery (board has three holes for screw fixing)
 - 2x mini water pumps (3v)
+- Silicon hose 3mm inner diameter, 5mm outer diameter. Purchase whatever length you require, I bought a 5m long hose to cut into indivual hoses as per my needs.  
 - 2x 3v relay power switches
 - Sufficient number of jumper wires
 - 9x M2.5 screws to attach the ESP32 baord, the relays and the DS3231 RTC mdoule to the housing
@@ -59,6 +60,10 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 - Go to the // PIN CONFIGURATION // section of the sketch
 - Change the pin numbers in accordance with the pins that you are using on your ESP32 board
 - Save the sketch and upload it to your ESP32 board (for the Keyestudio ESP32, select "ESP32 Dev Module" as device in Arduino IDE)
+-
+***
+### ⚙️ Configuring your Plant Watering System
+
 
 ***
 ### 📷 Images of the build:
