@@ -18,7 +18,7 @@ Features:
 
 This project is not complicated and does not require a high level of technical know-how. You just need time, patience and to follow the instructions as set out below.
 
-Link to 3D printing files on Makerworld: [Link]([https://makerworld.com/de/models/2927499-garmin-g1000-controller-ms-flight-simulator-2024#profileId-3276793])
+Link to 3D printing files on Makerworld: [Link](https://makerworld.com/de/models/2927499-garmin-g1000-controller-ms-flight-simulator-2024#profileId-3276793)
 
 ---
 ### 🛒 What components do I need to make this project?
@@ -42,7 +42,7 @@ Link to 3D printing files on Makerworld: [Link]([https://makerworld.com/de/model
 
 ***
 ### 🔎 How do I get started?
-- Download *.3mf file for the Plant Watering System Project on Makerworld: [Link]([https://makerworld.com/de/models/2927499-garmin-g1000-controller-ms-flight-simulator-2024#profileId-3276793])
+- Download *.3mf file for the Plant Watering System Project on Makerworld: [Link](https://makerworld.com/de/models/2927499-garmin-g1000-controller-ms-flight-simulator-2024#profileId-3276793)
 - Print all parts with your 3D printer
 - Attach the ESP32 board to the bottom of the housing using M2.5 screws
 - Attach the DS3231 RTC module to the bottom of the housing using M2.5 screws
@@ -64,6 +64,8 @@ Link to 3D printing files on Makerworld: [Link]([https://makerworld.com/de/model
 - Attach the silicon hoses to the "in" and "out" ports of the water pumps. The "out" ports have a smaller inner diameter than the "in" ports. You can use mini zip ties if you want to attach the hoses to the "in" and "out" ports more securely.
 - Attach the silicon hoses coming from the water outlets of the Plant Watering System to the printed spikes. Push the spikes into the soil of the plants you want to water.
 - Fill a container with water and place silicon hoses connected to the "in" ports of the Plant Watering System in the container. Use a weight to keep the hoses from moving in the water container
+
+IMPORTANT: This device is only suitable for indoor usage! Make sure that the silicon hoses are connected tightly to the water pumps to avoid unwanted water leakage (use mini zip ties if need be).
 
 ***
 ### ⚙️ Configuring your Plant Watering System
