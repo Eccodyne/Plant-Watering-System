@@ -11,7 +11,7 @@ Features:
 - Two separately controllable water pumps
 - Individual watering schedules for each weekday (Monday to Sunday)
 - Customizable watering duration for each pump
-- Saves all settings to the EEPROM of the ESP32 board so nothing gets lost when device is disconnected from power
+- Saves all settings to the EEPROM of the ESP32 board to keep data when device is disconnected from power
 - Uses DS3231 RTC module to keep time/date to trigger watering at the right ime
 - Easy navigation and configuraton via rotary encoder with push button (to enter menus and make settings) and secondary push button (to return from menus)
 - Automatic screen dimming (idle timer can be configured)
