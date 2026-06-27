@@ -18,7 +18,7 @@ Features:
 
 This project is not complicated and does not require a high level of technical know-how. You just need time, patience and to follow the instructions as set out below.
 
-Link to 3D printing files on Makerworld: [Click]([https://makerworld.com/de/models/2927499-garmin-g1000-controller-ms-flight-simulator-2024#profileId-3276793](https://makerworld.com/de/models/2982996-plant-watering-system-esp32#profileId-3347076))
+Link to 3D printing files on Makerworld: [Link]([https://makerworld.com/de/models/2927499-garmin-g1000-controller-ms-flight-simulator-2024#profileId-3276793])
 
 ---
 ### 🛒 What components do I need to make this project?
@@ -42,7 +42,7 @@ Link to 3D printing files on Makerworld: [Click]([https://makerworld.com/de/mode
 
 ***
 ### 🔎 How do I get started?
-- Download *.3mf file for the Plant Watering System Project on Makerworld: [Link]([https://makerworld.com/de/models/2927499-garmin-g1000-controller-ms-flight-simulator-2024#profileId-3276793](https://makerworld.com/de/models/2982996-plant-watering-system-esp32#profileId-3347076))
+- Download *.3mf file for the Plant Watering System Project on Makerworld: [Link]([https://makerworld.com/de/models/2927499-garmin-g1000-controller-ms-flight-simulator-2024#profileId-3276793])
 - Print all parts with your 3D printer
 - Attach the ESP32 board to the bottom of the housing using M2.5 screws
 - Attach the DS3231 RTC module to the bottom of the housing using M2.5 screws
