@@ -61,14 +61,15 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 - Go to the // PIN CONFIGURATION // section of the sketch
 - Change the pin numbers in accordance with the pins that you are using on your ESP32 board
 - Save the sketch and upload it to your ESP32 board (for the Keyestudio ESP32, select "ESP32 Dev Module" as device in Arduino IDE)
-- Attach the silicon hoses to the "in" and "out" ports of the water pumps. The "out" ports have a smaller inner diameter than the "in" ports.
+- Attach the silicon hoses to the "in" and "out" ports of the water pumps. The "out" ports have a smaller inner diameter than the "in" ports. You can use mini zip ties if you want to attach the hoses to the "in" and "out" ports more securely.
 - Attach the silicon hoses coming from the water outlets of the Plant Watering System to the printed spikes. Push the spikes into the soil of the plants you want to water.
 - Fill a container with water and place silicon hoses connected to the "in" ports of the Plant Watering System in the container. Use a weight to keep the hoses from moving in the water container
 
 ***
 ### ⚙️ Configuring your Plant Watering System
+Configuration is very easy as all menu items are self explainatory. When running the system for the first time, make sure to set time and date via the main menu. Given that the DS3231 RTC module has a battery backup, no time/date settings will be lost should the device be disconnected from power. The same is true for all other settings of the device which are saved to the ESP32's EEPROM.
 
-
+The most important point to make here is that you can create individual watering schedules for each pump. There are seven schedules for each weekday from Monday to Sunday. Activate or deactivate any schedule as per your own watering requirements. You can also manually run the pumps (single or dual) if need be. The watering time for each pump has to be set in seconds - it is best to run a test to see how much water your pumps deliver per second - adjust the overall time accordingly. 
 
 ***
 ### 📷 Images of the build and its parts:
