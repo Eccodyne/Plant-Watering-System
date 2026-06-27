@@ -27,7 +27,7 @@ Link to 3D printing files on Makerworld: [Link](https://makerworld.com/de/models
 - 2,4 inch EC11 LCD display with rotary encoder and secondary push button (320x240 pixels)
 - DS3231 real time clock module with backup battery (board has three holes for screw fixing)
 - 2x mini water pumps (3v)
-- Silicon hose 3mm inner diameter, 5mm outer diameter. Purchase whatever length you require, I bought a 5m long hose and cut it to indivual lenghts as per my needs.  
+- Silicon hose 3mm inner diameter, 5mm outer diameter. Purchase whatever length you require, I bought a 5m long hose and cut it to individual lengths as per my needs.
 - 2x 3v relay power switches
 - Sufficient number of jumper wires
 - 15x M2.5 screws to attach the ESP32 baord, the relays and the DS3231 RTC mdoule to the housing
