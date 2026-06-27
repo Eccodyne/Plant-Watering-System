@@ -55,4 +55,8 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 - Pins A and B of the LCD's rotary encoder can be attached to analogue inputs of the ESP32 board, everything else needs to go to digital inputs.
 - Make sure that GND and V (Voltage) pins are connected correctly. Do not use 5V pins on the ESP32 board, only 3V pins.
 - Wiring the relays: Connect VCC to a 3V pin on the ESP32 board, connect GND to a GND pin on the ESP32 board, connect the IN pin to a digital input on the ESP32 board (take note of the input used). Connect NC to the V cable of a water pump, connect COM to a 3V pin on the ESP32 board
+- Start Arduino IDE and load the code/sketch provided for in this repository
+- Go to the // PIN CONFIGURATION // section of the sketch
+- Change the pin numbers in accordance with the pins that you are using on your ESP32 board
+- Save the sketch and upload it to your ESP32 board (for the Keyestudio ESP32, select "ESP32 Dev Module" as device in Arduino IDE)
 - 
