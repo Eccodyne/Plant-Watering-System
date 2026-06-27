@@ -30,7 +30,7 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 - Silicon hose 3mm inner diameter, 5mm outer diameter. Purchase whatever length you require, I bought a 5m long hose and cut it to indivual lenghts as per my needs.  
 - 2x 3v relay power switches
 - Sufficient number of jumper wires
-- 9x M2.5 screws to attach the ESP32 baord, the relays and the DS3231 RTC mdoule to the housing
+- 15x M2.5 screws to attach the ESP32 baord, the relays and the DS3231 RTC mdoule to the housing
 - 10x M3 screws to attach the LCD display, the display cover and to fix the back of the housing
 - Hot glue to fix the water pumps to the housing
 - USB-C cable to connect the ESP32 board to your PC
