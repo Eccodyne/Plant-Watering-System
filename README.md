@@ -65,7 +65,7 @@ Link to 3D printing files on Makerworld: [Link](https://makerworld.com/de/models
 - Attach the silicon hoses coming from the water outlets of the Plant Watering System to the printed spikes. Push the spikes into the soil of the plants you want to water.
 - Fill a container with water and place silicon hoses connected to the "in" ports of the Plant Watering System in the container. Use a weight to keep the hoses from moving in the water container
 
-IMPORTANT: This device is only suitable for indoor usage! Make sure that the silicon hoses are connected tightly to the water pumps to avoid unwanted water leakage (use mini zip ties if need be).
+Important: This device is  suitable for indoor usage only! Make sure that the silicon hoses are connected tightly to the water pumps to avoid unwanted water leakage (use mini zip ties if need be).
 
 ***
 ### ⚙️ Configuring your Plant Watering System
