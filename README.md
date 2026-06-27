@@ -45,9 +45,14 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 - Print all parts with your 3D printer
 - Atatch the ESP32 board to the bottom of the housing using M2.5 screws
 - Attach the DS3231 RTC module to the bottom of the housing using M2.5 screws
+- Cut off the mini plug from each of cables of the water pump
+- Solder jumnper wires to the GND cable (blue) and V cable (red) of the water pumps. Important: the V cable coming from the water pump must have a male connector which needs to be attached to a relay later on. This does not work with a female connector.
 - Attach the water pumps to the buttom of the housing using hot glue
+-
 - Attach the relays to the top part of the housing using M2.5 screws
 - Solder the pin bridge to the board of the LCD display
 - Attach the LCD display to the display cover using M2.5 screws
-- Connect all pins of the LCD display to the ESP32 board using jumper wires. Pins A and B of the LCD's rotary encoder can be attached to analogue inputs of the ESP32 board, everything else needs to go to digital inputs. Make sure that GND and V (Voltage) pins are connected correctly. Do not use 5V pins on the ESP32 board, only 3V pins.
+- Connect all pins of the LCD display to the ESP32 board using jumper wires. Take note of each pin number you are using on the ESP32 board, you will need to adjust the Arduino code accordingly later on 
+- Pins A and B of the LCD's rotary encoder can be attached to analogue inputs of the ESP32 board, everything else needs to go to digital inputs.
+- Make sure that GND and V (Voltage) pins are connected correctly. Do not use 5V pins on the ESP32 board, only 3V pins.
 - 
