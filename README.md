@@ -71,7 +71,10 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 
 
 ***
-### 📷 Images of the build:
+### 📷 Images of the build and its parts:
+
+![Display](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/PIC4.JPG)
+
 ![PIC1](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/PIC1.JPG)
 
 ![PIC2](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/PIC2.JPG)
