@@ -5,7 +5,7 @@
 This is a fully automated plant watering system based on an ESP32 board and Arduino code.
 
 ### 💡What is this repository for?
-This repository contains the code and build instructions for the "Plant Watering System" Project with the required 3D printing files to be found at Makerworld.com. 
+This repository contains the code and build instructions for the "Plant Watering System" Project with the required 3D printing files to be found on Makerworld.com. 
 
 Features:
 - Controls 2 separate water pumps
@@ -34,3 +34,11 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 - Hot glue to fix the water pumps to the housing
 - USB-C cable to connect the ESP32 board to your PC
 - 4x self-adhesive rubber feet to be attached to the bottom of the housing
+
+***
+### 💾 What software do I need to make this project?  
+- Arduino IDE (free of cost)
+
+***
+### 🔎 How do I get started?
+- Download *.3mf file for the Plant Watering System Project on Makerworld: [Link](https://makerworld.com/de/models/2927499-garmin-g1000-controller-ms-flight-simulator-2024#profileId-3276793)
