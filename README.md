@@ -2,7 +2,7 @@
 ![Plant Watering System](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/Housing_Front.JPG)
 
 # Plant Watering System
-This is a fully automated plant watering system based on an ESP32 board and Arduino code.
+This is a fully automated plant watering system based on an ESP32 board and Arduino code. It provides for two separate water pumps which can be easiliy configured through a self explainatory menu system using the rotary encoder and the secondary button.
 
 ### 💡What is this repository for?
 This repository contains the code and build instructions for the "Plant Watering System" Project with the required 3D printing files to be found on Makerworld.com. 
@@ -67,7 +67,9 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 
 ***
 ### ⚙️ Configuring your Plant Watering System
-Configuration is very easy as all menu items are self explainatory. When running the system for the first time, make sure to set time and date via the main menu. Given that the DS3231 RTC module has a battery backup, no time/date settings will be lost should the device be disconnected from power. The same is true for all other settings of the device which are saved to the ESP32's EEPROM.
+Configuration is very easy as all menu items are self explainatory. The rotary knob is used for scrolling through the menus and adjusting settings - settings are applied when pressing down the rotary knob as it also has a button function. The secondary button below the rotary encoder is used to jump back from a menu page to the previous menu page.
+
+When running the system for the first time, make sure to set time and date. Given that the DS3231 RTC module has a battery backup, no time/date settings will be lost should the device be disconnected from power. The same is true for all other settings of the device which are saved to the ESP32's EEPROM.
 
 The most important point to make here is that you can create individual watering schedules for each pump. There are seven schedules for each weekday from Monday to Sunday. Activate or deactivate any schedule as per your own watering requirements. You can also manually run the pumps (single or dual) if need be. The watering time for each pump has to be set in seconds - it is best to run a test to see how much water your pumps deliver per second - adjust the overall time accordingly. 
 
