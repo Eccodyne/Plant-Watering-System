@@ -1,5 +1,5 @@
 ## 📌 Welcome to the "Plant Watering System" Project!
-![Plant Watering System](https://github.com/Eccodyne/Plant-Watering-System/blob/main/images/Housing_Front.JPG)
+![Plant Watering System](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/Housing_Front.JPG)
 
 # Garmin-G1000-Controller
 This a physical controller for the main navigation functions of the Garmin G1000, to be used with Microsoft Flight Simulator 2024.
