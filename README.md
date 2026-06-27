@@ -43,7 +43,7 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 ### 🔎 How do I get started?
 - Download *.3mf file for the Plant Watering System Project on Makerworld: [Link](https://makerworld.com/de/models/2927499-garmin-g1000-controller-ms-flight-simulator-2024#profileId-3276793)
 - Print all parts with your 3D printer
-- Atatch the ESP32 board to the bottom of the housing using M2.5 screws
+- Attach the ESP32 board to the bottom of the housing using M2.5 screws
 - Attach the DS3231 RTC module to the bottom of the housing using M2.5 screws
 - Cut off the mini plugs from the cables of the water pumps to do the next step
 - Solder jumnper wires to the GND cable (blue) and V cable (red) of the water pumps. Important: the V cable coming from the water pump must have a male connector which needs to be attached to a relay later on. This does not work with a female connector.
@@ -59,4 +59,8 @@ Link to 3D printing files on Makerworld: [Click](https://makerworld.com/de/model
 - Go to the // PIN CONFIGURATION // section of the sketch
 - Change the pin numbers in accordance with the pins that you are using on your ESP32 board
 - Save the sketch and upload it to your ESP32 board (for the Keyestudio ESP32, select "ESP32 Dev Module" as device in Arduino IDE)
-- 
+
+***
+### 📷 Images of the build:
+
+
