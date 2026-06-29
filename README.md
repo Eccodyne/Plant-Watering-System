@@ -82,6 +82,8 @@ The most important point to make here is that you can create individual watering
 ***
 ### 📷 Images of the build and its parts:
 
+![Watering](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/Watering.JPG)
+
 ![Spikes](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/Spikes.JPG)
 
 ![Connectors](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/Connectors.JPG)
