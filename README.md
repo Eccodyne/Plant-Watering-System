@@ -15,6 +15,7 @@ Features:
 - Uses DS3231 RTC module to keep time/date to trigger watering at the right ime
 - Easy navigation and configuraton via rotary encoder with push button (to enter menus and make settings) and secondary push button (to return from menus)
 - Automatic screen dimming (idle timer can be configured)
+- Watering spikes and connectors to allow for an indiviual watering setup
 
 This project is not complicated and does not require a high level of technical know-how. You just need time, patience and to follow the instructions as set out below.
 
@@ -82,6 +83,10 @@ The most important point to make here is that you can create individual watering
 ### 📷 Images of the build and its parts:
 
 ![Water pump](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/PIC5.JPG)
+
+![Spikes](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/Spikes.JPG)
+
+![Connectors](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/Connectors.JPG)
 
 ![Relay](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/PIC6.JPG)
 
