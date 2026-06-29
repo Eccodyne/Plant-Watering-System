@@ -23,7 +23,7 @@ Link to 3D printing files on Makerworld: [Link](https://makerworld.com/de/models
 
 ---
 ### 🛒 What components do I need to make this project?
-- 3D printed housing parts (PLA filament for housing, PETG filament for spikes and connectors)
+- 3D printed parts (PLA filament for housing, PETG filament for spikes and connectors)
 - Keyestudio ESP3232-WROOM-32 Development Board 
 - 2,4 inch EC11 LCD display with rotary encoder and secondary push button (320x240 pixels)
 - DS3231 real time clock module with backup battery (board has three holes for screw fixing)
