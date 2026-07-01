@@ -71,7 +71,7 @@ All items can be found at the well known Chinese internet shops.
 - Fill a container with water and place silicon hoses connected to the "in" ports of the Plant Watering System in the container
 - Use the diver to keep the silicon hose underwater in your water tank
 
-Important: This device is  suitable for indoor usage only! Make sure that the silicon hoses are connected tightly to the water pumps to avoid unwanted water leakage (use mini zip ties if need be).
+Important: This device is  suitable for indoor usage only! Make sure that the silicon hoses are connected tightly to the water pumps to avoid unwanted water leakage (use mini zip ties if need be). Always use clean water with not dirt in it, otherwise you will clog the water pumps.
 
 ***
 ### ⚙️ Configuring your Plant Watering System
