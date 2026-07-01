@@ -37,6 +37,7 @@ Link to 3D printing files on Makerworld: [Link](https://makerworld.com/de/models
 - USB-C cable to connect the ESP32 board to your PC
 - 4x self-adhesive rubber feet to be attached to the bottom of the housing
 - Soldering iron to connect the pin bridge to the LCD display
+- In case you are using the diver to keep the silicon hose underwater in your water tank, some weight (e.g. sand, small pebbles, metal balls) to be filled into the container of the diver.
 
 All items can be found at the well known Chinese internet shops.
 
@@ -65,9 +66,10 @@ All items can be found at the well known Chinese internet shops.
 - Go to the // PIN CONFIGURATION // section of the sketch
 - Change the pin numbers in accordance with the pins that you are using on your ESP32 board
 - Save the sketch and upload it to your ESP32 board (for the Keyestudio ESP32, select "ESP32 Dev Module" as device in Arduino IDE)
-- Attach the silicon hoses to the "in" and "out" ports of the water pumps. The "out" ports have a smaller inner diameter than the "in" ports. You can use mini zip ties if you want to attach the hoses to the "in" and "out" ports more securely.
-- Attach the silicon hoses coming from the water outlets of the Plant Watering System to the printed spikes. Push the spikes into the soil of the plants you want to water.
-- Fill a container with water and place silicon hoses connected to the "in" ports of the Plant Watering System in the container. Use a weight to keep the hoses from moving in the water container
+- Attach the silicon hoses to the "in" and "out" ports of the water pumps. The "out" ports have a smaller inner diameter than the "in" ports. You can use mini zip ties if you want to attach the hoses to the "in" and "out" ports more securely
+- Attach the silicon hoses coming from the water outlets of the Plant Watering System to the printed spikes. Push the spikes into the soil of the plants you want to water
+- Fill a container with water and place silicon hoses connected to the "in" ports of the Plant Watering System in the container
+- Use the diver to keep the silicon hose underwater in your water tank
 
 Important: This device is  suitable for indoor usage only! Make sure that the silicon hoses are connected tightly to the water pumps to avoid unwanted water leakage (use mini zip ties if need be).
 
