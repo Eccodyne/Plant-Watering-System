@@ -104,5 +104,8 @@ The most important point to make here is that you can create individual watering
 
 ![PIC4](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/Housing_Back.JPG)
 
+![DIVER1](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/Diver1.JPG)
+
+![DIVER2](https://github.com/Eccodyne/Plant-Watering-System/blob/main/Images/Diver2.JPG)
 
 
