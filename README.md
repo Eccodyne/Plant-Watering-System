@@ -37,7 +37,7 @@ Link to 3D printing files on Makerworld: [Link](https://makerworld.com/de/models
 - USB-C cable to connect the ESP32 board to your PC
 - 4x self-adhesive rubber feet to be attached to the bottom of the housing
 - Soldering iron to connect the pin bridge to the LCD display
-- In case you are using the diver to keep the silicon hose underwater in your water tank, some weight (e.g. sand, small pebbles, metal balls) to be filled into the container of the diver.
+- In case you are using the diver to keep the silicon hose underwater in your water tank, fill some weight (e.g. small pebbles, metal balls) into the container of the diver.
 
 All items can be found at the well known Chinese internet shops.
 
