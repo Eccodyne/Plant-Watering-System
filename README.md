@@ -73,6 +73,8 @@ All items can be found at the well known Chinese internet shops.
 
 Important: This device is  suitable for indoor usage only! Make sure that the silicon hoses are connected tightly to the water pumps to avoid unwanted water leakage (use mini zip ties if need be). Always use clean water with not dirt in it, otherwise you will clog the water pumps.
 
+Once you have connected the silicon hoses to the pumps, start manual mode and fill the pipes for each pump with water so that they are ready for use and no air remains in the hoses.
+
 ***
 ### ⚙️ Configuring your Plant Watering System
 Configuration is very easy as all menu items are self explainatory. The rotary knob is used for scrolling through the menus and adjusting settings - settings are applied when pressing down the rotary knob as it also has a button function. The secondary button below the rotary encoder is used to jump back from a menu page to the previous menu page.
