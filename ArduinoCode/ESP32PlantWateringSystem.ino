@@ -949,7 +949,6 @@ void drawSlotList() {
              WEEKDAY_NAMES[s.weekday], timeText);
 
     tft.setTextSize(1);
-    // Prüft, ob der Slot (Tag) aktiv ist: Aktive = Grün, Inaktive = Rot
     tft.setTextColor(s.enabled ? C_GREEN : C_RED); 
     tft.setCursor(18, 68 + displayPos * 50);
     tft.print(rowText);
